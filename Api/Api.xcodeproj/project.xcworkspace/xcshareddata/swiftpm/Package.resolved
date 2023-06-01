@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "swiftui-vertical-tab-view",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/lorenzofiamingo/swiftui-vertical-tab-view",
+      "state" : {
+        "revision" : "e029f75f9c43e52e351528a78e293a997200b9f8",
+        "version" : "2.0.0"
+      }
+    },
+    {
+      "identity" : "tabbar",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onl1ner/TabBar.git",
+      "state" : {
+        "revision" : "995e6bc32829d0a0f5300d6f49b654412068dbbe",
+        "version" : "1.3.0"
+      }
+    }
+  ],
+  "version" : 2
+}
